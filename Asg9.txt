@@ -1,0 +1,13 @@
+Commands in terminal of bitvise SSH client
+•	pwd
+•	sudo apt-get update
+•	sudo apt-get upgrade
+•	sudo apt-get install nginx
+•	nginx -v
+•	curl -SL https://deb.nodesource.com/setup_18.x|sudo -E bash –
+•	sudo apt install nodejs
+•	nodejs -v
+•	git clone https://github.com/dulung/himelrepo.git
+•	cd himelrepo
+•	ls
+•	npm install
