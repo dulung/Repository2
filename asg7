@@ -1,0 +1,14 @@
+ssh client
+ssh terminal
+pwd
+•	sudo apt-get update
+•	sudo apt-get upgrade
+•	sudo apt-get install nginx
+•	nginx -v
+cd var/www/html
+cd ..
+sudo chmod 777 html
+cd html
+ls
+drag drop files in sftp
+ls
