@@ -1,0 +1,9 @@
+•	pwd
+•	vim code.sh
+•	#!/bin/bash
+while (true)
+do
+    echo "Server Alive"
+done
+•	Press ‘esc’ then ‘:’ then ‘w’ then ‘x’ then ‘enter’
+•	Run the code using the command sh code.sh
