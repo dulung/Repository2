@@ -1,10 +1,11 @@
-ssh client
+ec2 hosting website
+bitvise ssh client
 ssh terminal
 pwd
-•	sudo apt-get update
-•	sudo apt-get upgrade
-•	sudo apt-get install nginx
-•	nginx -v
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install nginx
+nginx -v
 cd /var/www/html
 cd ..
 sudo chmod 777 html
