@@ -5,7 +5,7 @@ pwd
 •	sudo apt-get upgrade
 •	sudo apt-get install nginx
 •	nginx -v
-cd var/www/html
+cd /var/www/html
 cd ..
 sudo chmod 777 html
 cd html
