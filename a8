@@ -1,0 +1,10 @@
+git hub to local machine
+git clone 
+vice versa
+git init 
+b. git config --global user.name & git config --global user.email
+c. git config --global --list
+d. git add . 
+e. git status 
+f. git commit -m done 
+g. git remote add origin 
