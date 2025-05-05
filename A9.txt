@@ -11,3 +11,7 @@ Commands in terminal of bitvise SSH client
 •	cd himelrepo
 •	ls
 •	npm install
+add 4000 tcp in inbound rules
+terminal
+npm -v
+node index.js
