@@ -1,10 +1,13 @@
 git hub to local machine
-git clone 
+in git bash new folder 
+git clone http://github.com/dulung/himelrepo.git
+cd himelrepo
 vice versa
 git init 
-b. git config --global user.name & git config --global user.email
-c. git config --global --list
-d. git add . 
-e. git status 
-f. git commit -m done 
-g. git remote add origin 
+git config --global user.name 
+git config --global user.email
+git config --global --list
+git add . 
+git status 
+git commit -m done 
+git remote add origin 
